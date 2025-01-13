@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-# _**"Without Data you are just another person with an opinion!"**_  ### _**- W. Edwards Deming, Data Scientist**_
+# _**"Without Data you are just another person with an opinion!"**_
+
+_**- W. Edwards Deming, Data Scientist**_
 
 ### About Me 🚀
 
