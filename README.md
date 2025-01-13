@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-_**"Without Data you are just another person with an opinion!" - W. Edwards Deming, Data Scientist**_
+#_**"Without Data you are just another person with an opinion!" - W. Edwards Deming, Data Scientist**_
 
 ### About Me 🚀
 
@@ -14,21 +14,21 @@ _**"Without Data you are just another person with an opinion!" - W. Edwards Demi
 
 - ♔♚⛰️🎶 Apart from being a Data Scientist, I like to read, go on treks and play a lot of Chess!
 
-  ### 🏅 Certifications Bucket
+### 🏅 Certifications Bucket
 
-  1. Generative AI with LLMs - Deeplearing.AI
+1. Generative AI with LLMs - Deeplearing.AI
      [Generative AI with LLMs](https://coursera.org/verif%20y/B2DUNE75JU88?trk=public_profile_see-credential)
      
-  2. Amazon Certified Cloud Practitioner.
+2. Amazon Certified Cloud Practitioner.
      [Amazon Certified Cloud Practitioner](https://aws.amazon.com/verification?trk=public_profile_see-credential)
      
-  3. Microsoft Certified Power BI Data Analyst.
+3. Microsoft Certified Power BI Data Analyst.
      [Microsoft Certified Power BI Data Analyst](https://learn.microsoft.com/api/credentials/share/en-us/ShreerajKulkarni/11B91DEF49327391?sharingId=64B70DE6BFA1D9F1&trk=public_profile_see-credential)
      
-  4. Unleashing LLMs: Creating RAG applications by Training LLMs, Finetuning and Evaluating - Data Hack Summit 2024.
+4. Unleashing LLMs: Creating RAG applications by Training LLMs, Finetuning and Evaluating - Data Hack Summit 2024.
 
 ### 📱 Socials 
 
-![[Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shree-glitch)
+[![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shree-glitch)
 
-![[Linked In](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/shreeraj-kulkarni)
+[![Linked In](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/shreeraj-kulkarni)
