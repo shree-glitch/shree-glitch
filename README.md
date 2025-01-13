@@ -29,6 +29,6 @@ _**"Without Data you are just another person with an opinion!" - W. Edwards Demi
 
 ### 📱 Socials 
 
-![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)(https://github.com/shree-glitch)]
+![[Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shree-glitch)
 
-![Linked In](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=GitHub&logoColor=white)(https://linkedin.com/in/shreeraj-kulkarni)]
+![[Linked In](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/shreeraj-kulkarni)
